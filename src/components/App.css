@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .listening-indicator {
+    color: red;
+    font-weight: bold;
+    margin: 10px;
+  }
+  
+  .transcript {
+    margin: 10px;
+  }
+  
+  .form-fields {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .form-fields input {
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+  }
+  
+  .form-submit {
+    margin: 20px;
+  }
+  
